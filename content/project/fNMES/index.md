@@ -43,7 +43,9 @@ url_video: "https://vimeo.com/860071546"
 Description:
 In this project, we make use of electrical muscle stimlation in order to investigate the role of facial feedback for felt and perceived emotions.
 
-See this video for an impression of the fNMES work: <video width="400" controlls> <source src=https://vimeo.com/860071546 > </video>
+See this video for an impression of the fNMES work:
+<iframe src="https://player.vimeo.com/video/860071546?h=1288d5a3d4&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/860071546">Electric emotions: sparking new discoveries with a Darwin-published experiment</a> from <a href="https://vimeo.com/uniofessex">University of Essex</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Related publications are:
 Efthimiou et al. (2023) <[def]>
